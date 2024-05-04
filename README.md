@@ -28,7 +28,7 @@ For maintenance we will use backups and restore tools to ensure data integrity, 
 9. How many have a desired target emission without a base emission?
 10. What is the most commeon sector?
 
-Answers for the questions can be found in the Jupyter, in the buttom we have answered all the questions.
+Answers for the questions can be found in the Jupyter, in the buttom we have answered all the questions and also on our frontend.
 
 
 ### 6. Design and implement a model for scaling the database, considering ACID and/or CAP theorem rules.

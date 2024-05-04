@@ -1,4 +1,4 @@
-# DB_assignment2
+# DB_assignment3
 SPA - Study points assigment for Database
 
 ## Neo4J
